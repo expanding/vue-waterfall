@@ -6,7 +6,7 @@ import Storage from '@/libs/storage'
  */
 export default {
   // 本地存储的key
-  key: 'xiyue_flybaby_oauth',
+  key: '不知道怎么生成的',
 
   /**
    * 存储数据
