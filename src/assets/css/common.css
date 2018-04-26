@@ -1,0 +1,110 @@
+*{
+    font-size: 14px;
+    color:rgb(52,52,52);
+}
+
+input {
+  box-shadow:0;
+  border: none;
+}
+/*首页 今日推荐/为你挑选   分类列表页*/
+/* .list {
+  height: auto;
+  overflow: hidden;
+}
+
+.list .item {
+  width: 47%;
+  height: auto;
+  margin-bottom: 0.5rem;
+}
+.list .item a{
+  display: block;
+  width: 3.22rem;
+  height: auto;
+  margin:0 auto;
+}
+.list li:nth-of-type(2n) {
+  float: right;
+}
+
+.list li:nth-of-type(2n+1) {
+  float: left;
+}
+
+.list .img-wrapper {
+  width: 100%;
+  height: 2.76rem;
+  background: #ddd;
+  margin-bottom: 0.16rem;
+}
+
+.list .img_wrapper img {
+  width: 100%;
+  height: 100%;
+}
+
+.list .info {
+  height: auto;
+}
+
+.list .label {
+  height: auto;
+  margin-bottom: 0.08rem;
+}
+.list .label span{
+  display: inline-block;
+  height: 0.2rem;
+  line-height: 0.2rem;
+  font-size: 0.2rem;
+  margin-right:0.14rem;
+}
+.list .label span:nth-last-of-type(1){
+  margin-right: 0;
+}
+.list .label .offer{
+  color: rgb(197, 155, 122);
+}
+.list .label .exclusive{
+  color: rgb(164,3,3);
+}
+.list .label .full_reduction{
+  color:rgb(35,86,71);
+}
+.list .name {
+  height: 0.76rem;
+  line-height: 0.38rem;
+  font-size: 0.26rem;
+  color: rgb(51, 51, 51);
+  margin-bottom: 0.1rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.list .price {
+  height: 0.32rem;
+  line-height: 0.32rem;
+  color: rgb( 255, 82, 62);
+}
+
+.list .newPrice {
+  margin-right: 0.12rem;
+  font-weight: 900;
+  color: rgb( 255, 82, 62);
+  font-size: 0.32rem;
+}
+
+.list .newPrice em {
+  font-size: 0.24rem;
+  font-weight: 900;
+  color: rgb( 255, 82, 62);
+
+}
+
+.list .oldPrice {
+  color: rgb(193 193 193);
+  font-size: 0.24rem;
+} */
